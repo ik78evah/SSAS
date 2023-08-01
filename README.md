@@ -1,4 +1,10 @@
 # duckburg-traffic-light-control-gruppe-8 Project
+In this project, the traffic lights at three intersections should be managed. 
+Each intersection has four vehicle traffic lights and eight pedestrian traffic lights, as shown below.
+Autonomous vehicles should be able to request the state of the traffic light.
+Emergency vehicles and the mayor's car should be able to request a green light with priority for the emergency vehicle.
+All systems have to be safe for all users and robust against cyberattacks.
+
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
