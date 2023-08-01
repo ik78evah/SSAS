@@ -9,7 +9,7 @@ All systems have to be safe for all users at all times and robust against cybera
 ![Intersection](https://github.com/ik78evah/SSAS/assets/73646817/2192415c-da65-4790-a680-bfe1dc0de0a8)
 
 ## Component diagram
-This diagram illustrates the IT components existing in this solution. To view further illustrations (UML and sequence diagram) please view our architecture diagrams.
+This diagram illustrates the IT components existing in this solution. To view further illustrations (UML and sequence diagram) please view our [architecture diagrams](https://github.com/ik78evah/SSAS/tree/main/architecture%20diagrams).
 
 ![SSAS_Komponentendiagramm_finale_Abgabe drawio](https://github.com/ik78evah/SSAS/assets/73646817/916a480b-f3aa-4d47-b74c-7e234f16e6bd)
 
