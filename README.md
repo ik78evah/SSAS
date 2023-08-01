@@ -6,8 +6,10 @@ Autonomous vehicles should be able to request the state a traffic light.
 Emergency vehicles and the mayor's car should be able to request a green light with priority for the emergency vehicle.
 All systems have to be safe for all users at all times and robust against cyberattacks.
 
-
 ![Intersection](https://github.com/ik78evah/SSAS/assets/73646817/2192415c-da65-4790-a680-bfe1dc0de0a8)
+
+## Component diagram
+![SSAS_Komponentendiagramm_finale_Abgabe drawio](https://github.com/ik78evah/SSAS/assets/73646817/916a480b-f3aa-4d47-b74c-7e234f16e6bd)
 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
