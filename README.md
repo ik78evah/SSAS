@@ -4,6 +4,7 @@ Each intersection has four vehicle traffic lights and eight pedestrian traffic l
 Autonomous vehicles should be able to request the state of the traffic light.
 Emergency vehicles and the mayor's car should be able to request a green light with priority for the emergency vehicle.
 All systems have to be safe for all users and robust against cyberattacks.
+![Intersection](https://github.com/ik78evah/SSAS/assets/73646817/2192415c-da65-4790-a680-bfe1dc0de0a8)
 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
