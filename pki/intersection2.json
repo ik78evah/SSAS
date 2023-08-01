@@ -1,0 +1,22 @@
+{
+  "CN": "Intersection2 Group-8",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+  {
+    "C": "DE",
+    "L": "Duckburg",
+    "O": "ITDZ Duckburg",
+    "OU": "Traffic Management",
+    "ST": "Duck State"
+  }
+  ],
+  "hosts": [
+    "127.0.0.1",
+    "localhost",
+    "192.168.49.2",
+    "172.29.215.139"
+  ]
+}

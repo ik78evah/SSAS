@@ -1,0 +1,19 @@
+{
+  "CN": "IV SSAS Group-8 Intermediate CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C":  "DE",
+      "L":  "Berlin",
+      "O":  "Technische Universität Berlin, AOT",
+      "OU": "IV SSAS",
+      "ST": "Berlin"
+    }
+  ],
+  "ca": {
+    "expiry": "42720h"
+  }
+}

@@ -1,0 +1,8 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+idna==3.3
+requests==2.27.1
+urllib3==1.26.8
+tabulate==0.8.9
+PyInquirer==1.0.3
+prompt-toolkit==1.0.14

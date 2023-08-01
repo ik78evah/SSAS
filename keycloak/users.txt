@@ -1,0 +1,11 @@
+user: fire-brigade-duckburg-vehicle-1
+pw: pqhoxishw
+
+user: mayor
+pw: mayor
+
+user: RandomRudolf
+pw: RandomRudolf
+
+user: traffic-manager
+pw: traffic-manager

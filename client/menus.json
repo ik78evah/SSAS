@@ -1,0 +1,104 @@
+{
+  "login_menu": [
+        {
+            "type": "list",
+            "name": "role",
+            "message": "Login as:",
+            "choices": ["Emergency vehicle", "Mayor", "TMC", "Autonomous vehicle", "Exit"]
+        }
+    ],
+    "ask_pwd": [
+        {
+            "type": "password",
+            "message": "Enter your password",
+            "name": "password"
+        }
+    ],
+
+    "action_menu": [
+      {
+        "type": "list",
+        "name": "action",
+        "message": "Choose action:",
+        "choices": ["Show lights status", "Request green light", "Change traffic lights state", "List all intersections", "Trigger Green Wave","Logout", "Exit"]
+      }
+    ],
+
+  "general_traffic_lights_menu": [
+      {
+        "type": "list",
+        "name": "action",
+        "message": "Choose action:",
+        "choices": ["All traffic lights at intersection", "Special traffic light"]
+      }
+    ],
+
+  "intersections_menu": [
+      {
+        "type": "list",
+        "name": "intersectionNr",
+        "message": "Choose intersection number:",
+        "choices": []
+      }
+    ],
+
+    "ids_template": [
+      {
+        "type": "list",
+        "name": "id",
+        "message": "Choose the id:",
+        "choices": []
+      }
+    ],
+
+  "chose_color_template": [
+      {
+        "type": "expand",
+        "name": "",
+        "message": "",
+        "choices": [
+          {
+                "key": "g",
+                "name": "GREEN",
+                "value": "GREEN"
+            },
+            {
+                "key": "r",
+                "name": "RED",
+                "value": "RED"
+            },
+            {
+                "key": "y",
+                "name": "YELLOW",
+                "value": "YELLOW"
+            },
+          {
+                "key": "w",
+                "name": "RED_YELLOW",
+                "value": "RED_YELLOW"
+            },
+          {
+                "key": "e",
+                "name": "EMERGENCY",
+                "value": "EMERGENCY"
+            }
+        ]
+      }
+    ],
+      "placement_options": [
+      {
+        "type": "list",
+        "name": "choice",
+        "message": "Connect to localhost or minikube?",
+        "choices": ["localhost","minikube"]
+      }
+    ],
+        "refresh_time": [
+      {
+        "type": "input",
+        "name": "time",
+        "message": "Select interval in seconds:",
+        "default": "2"
+      }
+    ]
+}

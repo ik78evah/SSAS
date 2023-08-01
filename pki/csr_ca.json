@@ -1,0 +1,17 @@
+{
+  "CN": "IV SSAS Group-8 Root CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+    "names": [
+       {
+         "C": "DE",
+         "L": "Berlin",
+         "O": "Technische Unversität Berlin, AOT",
+         "OU": "AOT CA Services",
+         "ST": "Berlin"
+       }
+    ]
+}
+
