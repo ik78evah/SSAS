@@ -8,7 +8,7 @@ import lombok.NonNull;
 import java.util.UUID;
 
 /**
- * This class states and validates that the specified TrafficLight can not have the specified TrafficLightState
+ * This class states and validates that the specified TrafficLight can not have the specified TrafficLightState i.e. pedestrian traffic light has no YELLOW state
  */
 
 @Getter

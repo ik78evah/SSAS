@@ -12,7 +12,7 @@ cfssl gencert -ca target/intermediate_ca.pem -ca-key target/intermediate_ca-key.
 # Create a PKCS12 file, can also be read/used by keytool (keystore type is pkcs12)
 openssl pkcs12 -export -inkey target/intersection-2-server-key.pem -in <(cat target/intersection-2-server.pem target/intermediate_ca.pem) -name intersection2 -out target/intersection2.p12
 
-# Create a server certificate for the intersection 1
+# Create a server certificate for the intersection 3
 cfssl gencert -ca target/intermediate_ca.pem -ca-key target/intermediate_ca-key.pem -config cfssl.json -profile=server intersection3.json | cfssljson -bare target/intersection-3-server
 
 # Create a PKCS12 file, can also be read/used by keytool (keystore type is pkcs12)
