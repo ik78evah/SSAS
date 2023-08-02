@@ -1,10 +1,10 @@
 # duckburg-traffic-light-control-gruppe-8 Project
 In this project, the traffic lights at three intersections should be managed. 
-Each intersection has four vehicle traffic lights and eight pedestrian traffic lights, as shown below.
-The traffic lights should be controllable by the traffic light management center. A UI for operators should be provided.
-Autonomous vehicles should be able to request the state a traffic light.
-Emergency vehicles and the mayor's car should be able to request a green light with priority for the emergency vehicle.
-All systems have to be safe for all users at all times and robust against cyberattacks.
+Each intersection has four vehicle traffic lights and eight pedestrian traffic lights, as shown below. Additionally the following criteria should be uphold:
+* The traffic lights should be controllable by the traffic light management center. A UI for operators should be provided.
+* Autonomous vehicles should be able to request the state of a traffic light.
+* Emergency vehicles and the mayor's car should be able to request a green light with priority for the emergency vehicle.
+* All systems have to be safe for all users at all times and robust against cyberattacks, including emergency systems etc.
 
 ![Intersection](https://github.com/ik78evah/SSAS/assets/73646817/2192415c-da65-4790-a680-bfe1dc0de0a8)
 
