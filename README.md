@@ -11,8 +11,7 @@ All systems have to be safe for all users at all times and robust against cybera
 ## Component diagram
 This diagram illustrates the IT components existing in this solution. To view further illustrations (UML and sequence diagram) please view our [architecture diagrams](https://github.com/ik78evah/SSAS/tree/main/architecture%20diagrams).
 
-![SSAS_Komponentendiagramm_finale_Abgabe](https://github.com/ik78evah/SSAS/assets/73646817/3386513e-e3be-438c-bcca-84ed2efae44b)
-
+![SSAS_Komponentendiagramm_finale_Abgabe](https://github.com/ik78evah/SSAS/assets/73646817/c1969c7a-68b7-4069-9471-395b758571a8)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
